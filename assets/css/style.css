@@ -1,5 +1,44 @@
-h1{
-    background-color: white;
+nav{ float: right;
+    border-top: 10px solid #4aaaa5;
+    background-color: #ffffff;
+}
+
+h1,
+    {margin-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4aaaa5;
+}
 
 
+
+body{
+    font-size: 16px;
+    color: #777777;
+    line-height: 30PX;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{ clear: both;
+    max-width: ;
+
+}
+
+#contactcontainer { padding-top: 125PX;
+}
+
+#midpage { padding: 40PX;
+    border: 5px solid black;
+    width: 100%;
+}
+
+
+
+
+
+
+footer { padding: 25px;
+    clear: both;
+    background-color: #666666;
+    text-align: center;
+    border-top: 10px solid #4aaaa5;
 }
