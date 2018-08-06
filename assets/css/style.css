@@ -1,12 +1,22 @@
+
+h1{
+    width: 210px;
+    padding:0px;
+    border: 10px solid #4aaaa5;
+    margin: 0px;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+ 
 nav{ 
     float: right;
     background-color: #ffffff;
-    line-break: auto;
-}
+    color: #777777;
+    width: 210px;
+    padding:0px;
 
-h1{
-
-}
+    }
 
 h2,
     {margin: 5px;
@@ -32,15 +42,16 @@ body{
 }
 
 #submit{
-
 color: 4aaaa5;
 }
 
-.container{ clear: both;
-  border: 1px solid: black;
+.container{ 
+clear: both;
+border: 1px solid: black;
 }
 
-#contactcontainer { padding-top: 125PX;
+#contactcontainer { 
+padding-top: 125PX;
 }
 
 .midpage {   
@@ -52,10 +63,8 @@ color: 4aaaa5;
 
 
 
-
-
-
-footer { padding: 25px;
+footer { 
+    padding: 25px;
     clear: both;
     background-color: #666666;
     text-align: center;
